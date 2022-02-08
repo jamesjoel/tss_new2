@@ -1,0 +1,26 @@
+body{
+    background-color: #19282F;
+}
+.bg-dark-green{
+    background-color: #19282F;
+}
+.text-dark-green{
+    color: #19282F;
+}
+.bg-light-green{
+    background-color: #D3ECA7;
+}
+.text-light-green{
+    color: #D3ECA7;
+}
+#menu .nav .nav-item .nav-link{
+    color: #FFF !important;
+}
+#menu .nav .nav-item .nav-link:hover{
+    background-color: #19282F;
+}
+
+#left-content .nav .nav-item .nav-link:hover{
+    background-color: #D3ECA7;
+    color: #19282F;
+}
