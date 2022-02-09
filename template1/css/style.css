@@ -24,3 +24,13 @@ body{
     background-color: #D3ECA7;
     color: #19282F;
 }
+#right-content .card .card-img-top{
+    height: 250px !important;
+}
+#logos .img-thumbnail{
+    height: 100%;
+    width: 100%;
+}
+#footer label{
+    color: #fff;
+}
